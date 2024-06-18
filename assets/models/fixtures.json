@@ -1,0 +1,213 @@
+{
+    "success": true,
+    "data": [
+      {
+        "id": 2,
+        "created_at": "2024-06-09T03:47:34.000000Z",
+        "updated_at": "2024-06-09T05:41:04.000000Z",
+        "type": "Quarter-finals",
+        "id_home_team": 9,
+        "id_away_team": 6,
+        "id_season": 1,
+        "location": "Allianz Arena",
+        "kickoff": "2024-05-01 00:00:00",
+        "status": "finished",
+        "home_team": {
+          "id": 9,
+          "created_at": "2024-06-09T03:36:50.000000Z",
+          "updated_at": "2024-06-09T03:36:50.000000Z",
+          "name": "Bayern Munich",
+          "logo": "logo-1717904210.png"
+        },
+        "away_team": {
+          "id": 6,
+          "created_at": "2024-06-09T03:36:02.000000Z",
+          "updated_at": "2024-06-09T03:36:02.000000Z",
+          "name": "Real Madrid",
+          "logo": "logo-1717904162.png"
+        }
+      },
+      {
+        "id": 3,
+        "created_at": "2024-06-09T03:49:02.000000Z",
+        "updated_at": "2024-06-09T05:41:12.000000Z",
+        "type": "Semi-finals",
+        "id_home_team": 8,
+        "id_away_team": 17,
+        "id_season": 1,
+        "location": "Signal Iduna Park",
+        "kickoff": "2024-05-02 02:00:00",
+        "status": "finished",
+        "home_team": {
+          "id": 8,
+          "created_at": "2024-06-09T03:36:40.000000Z",
+          "updated_at": "2024-06-09T03:36:40.000000Z",
+          "name": "Borussia Dortmund",
+          "logo": "logo-1717904200.png"
+        },
+        "away_team": {
+          "id": 17,
+          "created_at": "2024-06-09T03:48:06.000000Z",
+          "updated_at": "2024-06-09T03:48:06.000000Z",
+          "name": "Paris Saint German",
+          "logo": "logo-1717904886.png"
+        }
+      },
+      {
+        "id": 15,
+        "created_at": "2024-06-18T04:34:31.000000Z",
+        "updated_at": "2024-06-18T04:34:31.000000Z",
+        "type": "Quarter-finals",
+        "id_home_team": 5,
+        "id_away_team": 17,
+        "id_season": 1,
+        "location": "Camp Nou",
+        "kickoff": "2024-04-17 02:00:00",
+        "status": "upcoming",
+        "home_team": {
+          "id": 5,
+          "created_at": "2024-06-09T03:35:51.000000Z",
+          "updated_at": "2024-06-09T03:35:51.000000Z",
+          "name": "FC Barcelona",
+          "logo": "logo-1717904151.png"
+        },
+        "away_team": {
+          "id": 17,
+          "created_at": "2024-06-09T03:48:06.000000Z",
+          "updated_at": "2024-06-09T03:48:06.000000Z",
+          "name": "Paris Saint German",
+          "logo": "logo-1717904886.png"
+        }
+      },
+      {
+        "id": 16,
+        "created_at": "2024-06-18T04:36:03.000000Z",
+        "updated_at": "2024-06-18T04:36:03.000000Z",
+        "type": "Group Stage",
+        "id_home_team": 9,
+        "id_away_team": 12,
+        "id_season": 1,
+        "location": "Allianz Arena",
+        "kickoff": "2024-04-18 02:00:00",
+        "status": "upcoming",
+        "home_team": {
+          "id": 9,
+          "created_at": "2024-06-09T03:36:50.000000Z",
+          "updated_at": "2024-06-09T03:36:50.000000Z",
+          "name": "Bayern Munich",
+          "logo": "logo-1717904210.png"
+        },
+        "away_team": {
+          "id": 12,
+          "created_at": "2024-06-09T03:37:26.000000Z",
+          "updated_at": "2024-06-09T03:37:26.000000Z",
+          "name": "Arsenal",
+          "logo": "logo-1717904246.png"
+        }
+      },
+      {
+        "id": 17,
+        "created_at": "2024-06-18T04:37:59.000000Z",
+        "updated_at": "2024-06-18T04:37:59.000000Z",
+        "type": "Quarter-finals",
+        "id_home_team": 7,
+        "id_away_team": 6,
+        "id_season": 1,
+        "location": "Ettihad Stadium",
+        "kickoff": "2024-04-18 02:00:00",
+        "status": "upcoming",
+        "home_team": {
+          "id": 7,
+          "created_at": "2024-06-09T03:36:27.000000Z",
+          "updated_at": "2024-06-09T03:36:27.000000Z",
+          "name": "Manchester City",
+          "logo": "logo-1717904187.png"
+        },
+        "away_team": {
+          "id": 6,
+          "created_at": "2024-06-09T03:36:02.000000Z",
+          "updated_at": "2024-06-09T03:36:02.000000Z",
+          "name": "Real Madrid",
+          "logo": "logo-1717904162.png"
+        }
+      },
+      {
+        "id": 19,
+        "created_at": "2024-06-18T04:39:27.000000Z",
+        "updated_at": "2024-06-18T04:39:27.000000Z",
+        "type": "Semi-finals",
+        "id_home_team": 6,
+        "id_away_team": 9,
+        "id_season": 1,
+        "location": "Estádio Bernabeu",
+        "kickoff": "2024-05-01 02:00:00",
+        "status": "upcoming",
+        "home_team": {
+          "id": 6,
+          "created_at": "2024-06-09T03:36:02.000000Z",
+          "updated_at": "2024-06-09T03:36:02.000000Z",
+          "name": "Real Madrid",
+          "logo": "logo-1717904162.png"
+        },
+        "away_team": {
+          "id": 9,
+          "created_at": "2024-06-09T03:36:50.000000Z",
+          "updated_at": "2024-06-09T03:36:50.000000Z",
+          "name": "Bayern Munich",
+          "logo": "logo-1717904210.png"
+        }
+      },
+      {
+        "id": 20,
+        "created_at": "2024-06-18T04:41:40.000000Z",
+        "updated_at": "2024-06-18T04:41:40.000000Z",
+        "type": "Semi-finals",
+        "id_home_team": 17,
+        "id_away_team": 8,
+        "id_season": 1,
+        "location": "Parc des Princes",
+        "kickoff": "2024-05-02 02:00:00",
+        "status": "upcoming",
+        "home_team": {
+          "id": 17,
+          "created_at": "2024-06-09T03:48:06.000000Z",
+          "updated_at": "2024-06-09T03:48:06.000000Z",
+          "name": "Paris Saint German",
+          "logo": "logo-1717904886.png"
+        },
+        "away_team": {
+          "id": 8,
+          "created_at": "2024-06-09T03:36:40.000000Z",
+          "updated_at": "2024-06-09T03:36:40.000000Z",
+          "name": "Borussia Dortmund",
+          "logo": "logo-1717904200.png"
+        }
+      },
+      {
+        "id": 21,
+        "created_at": "2024-06-18T04:44:29.000000Z",
+        "updated_at": "2024-06-18T04:44:29.000000Z",
+        "type": "Quarter-finals",
+        "id_home_team": 12,
+        "id_away_team": 9,
+        "id_season": 1,
+        "location": "Emirates Stadium",
+        "kickoff": "2024-04-10 02:00:00",
+        "status": "upcoming",
+        "home_team": {
+          "id": 12,
+          "created_at": "2024-06-09T03:37:26.000000Z",
+          "updated_at": "2024-06-09T03:37:26.000000Z",
+          "name": "Arsenal",
+          "logo": "logo-1717904246.png"
+        },
+        "away_team": {
+          "id": 9,
+          "created_at": "2024-06-09T03:36:50.000000Z",
+          "updated_at": "2024-06-09T03:36:50.000000Z",
+          "name": "Bayern Munich",
+          "logo": "logo-1717904210.png"
+        }
+      }
+    ]
+  }

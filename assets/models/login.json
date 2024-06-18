@@ -1,0 +1,13 @@
+{
+    "message": "Success",
+    "token": "2|23poaEllDIWOYOoxzjNAsRYOirpXoG8pmcW8IkHSef4fe9b2",
+    "user": {
+        "id": 3,
+        "name": "Kemal Crisannaufal",
+        "profile_picture": "profile_picture-1717936613.png",
+        "email": "guest@gmail.com",
+        "email_verified_at": null,
+        "created_at": "2024-06-08T07:01:37.000000Z",
+        "updated_at": "2024-06-09T12:36:53.000000Z"
+    }
+}
